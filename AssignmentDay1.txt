@@ -1,0 +1,15 @@
+Q.1 What is your understanding of blockchain?
+A.1 A blockchain is a time-stamped series of immutable records of data that is managed by a cluster of computers not owned by any single entity. 
+    Each of these blocks of data (i.e. block) is secured and bound to each other using cryptographic chains.
+   
+Q.2 What is the core problem blockchain trying to solve?
+A.2 Authenticity and security are the major core problem for the online records of transactions.
+
+Q.3 What are the few features that blockchain will give you?
+A.3 Key features of blockchain: Cannot be corrupted, Decentralized technology, enhanced security, distributed ledger, consensus and faster settlement.
+
+Q.4 What all things does a block contains?
+A.4 A block contains : BlockNumber, Trans Record, Previous Block key and Mining key.
+
+Q.5 How is the verifiability of blockchain been attained?
+A.5 //TODO
